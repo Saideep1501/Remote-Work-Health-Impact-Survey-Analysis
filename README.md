@@ -6,7 +6,7 @@ This project analyzes the impact of remote work on employees' physical health, m
 
 ## 📌 Objectives
 - Understand how remote work affects employees' physical and mental health.
-- Analyze changes in work-life balance, screen time, and productivity.
+- Analyze changes in work-life balance, Physical & Mental Health, and productivity.
 - Identify major challenges faced by remote workers.
 - Provide insights to help HR and management support healthier work environments.
 
